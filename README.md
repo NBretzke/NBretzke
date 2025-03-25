@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and thrive on solving complex challenges thro
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/NBretzke/Vulnerability-Management-Project/blob/main/README.md)**
 
 
 ## 🤳 Connect With Me
