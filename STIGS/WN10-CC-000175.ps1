@@ -9,13 +9,12 @@
     STIG-ID         : WN10-CC-000175 (V2R8)
 
 .TESTED ON
-    Date(s) Tested  : 2025-29-03
-    Tested By       : Nicholas Bretzke
-    Systems Tested  : VM 
-    PowerShell Ver. : 1.0
+    Date(s) Tested  :
+    Tested By       :
+    Systems Tested  :  
+    PowerShell Ver. : 
 
 .USAGE
-    Put any usage instructions here.
     Example syntax:
     PS C:\> .\__remediation_template(STIG-ID-WN10-CC-000175).ps1 
 #>
