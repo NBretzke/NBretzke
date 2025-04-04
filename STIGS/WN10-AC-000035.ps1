@@ -1,24 +1,4 @@
- Author          : Nicholas Bretzke
-    LinkedIn        : linkedin.com/in/nicholas-bretzke-931735164/
-    GitHub          : github.com/NBretzke
-    Date Created    : 2025-02-04
-    Last Modified   : 2025-02-04
-    Version         : 1.0
-    CVEs            : N/A
-    Plugin IDs      : N/A
-    STIG-ID         : WN10-AC-000010 (V2R8)
-
-.TESTED ON
-    Date(s) Tested  :
-    Tested By       :
-    Systems Tested  :  
-    PowerShell Ver. : 
-
-.USAGE
-    Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AC-000020).ps1 
-#>
- Author          : Nicholas Bretzke
+    Author          : Nicholas Bretzke
     LinkedIn        : linkedin.com/in/nicholas-bretzke-931735164/
     GitHub          : github.com/NBretzke
     Date Created    : 2025-02-04
