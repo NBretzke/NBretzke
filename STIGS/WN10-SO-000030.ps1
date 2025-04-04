@@ -16,7 +16,9 @@
 
 .USAGE
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-SO-000030).ps1 # Check if audit policy subcategories are enabled
+    PS C:\> .\__remediation_template(STIG-ID-WN10-SO-000030).ps1 
+    
+    # Check if audit policy subcategories are enabled
     
 $auditStatus = Get-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\Lsa" -Name "SCENoApplyLegacyAuditPolicy" -ErrorAction SilentlyContinue
 
