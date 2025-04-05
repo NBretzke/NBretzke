@@ -7,6 +7,11 @@ I'm passionate about cybersecurity and thrive on solving complex challenges thro
 
 - **[Vulnerability Management Program Implementation](https://github.com/NBretzke/Vulnerability-Management-Project/blob/main/README.md)**
 
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
 
 ## 🤳 Connect With Me
 
