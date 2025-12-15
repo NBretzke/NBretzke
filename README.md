@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and thrive on solving complex challenges thro
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/NBretzke/Threat-Hunting-Project)**
+- **[Threat Hunting Scenario (Identifying Internal PowerShell-Based Port Scanning via Microsoft Defender)](https://github.com/NBretzke/Threat-Hunting-Project)**
 
 <hr/>
 
