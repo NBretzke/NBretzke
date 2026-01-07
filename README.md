@@ -11,7 +11,9 @@ I'm passionate about cybersecurity and thrive on solving complex challenges thro
 
 - **[Threat Hunting Scenario (Identifying Internal PowerShell-Based Port Scanning via Microsoft Defender)](https://github.com/NBretzke/Threat-Hunting-Project)**
 - **[Threat Hunting Scenario (PwnCrypt-Zero-Day-Ransomware-Threat-Hunt)](https://github.com/NBretzke/PwnCrypt-Zero-Day-Ransomware-Threat-Hunt)**
-
+- **[Threat Hunting Scenario - The HelpDesk Deception)](https://github.com/NBretzke/ThreatHunt-TheHelpDeskDeception)**
+- **[Threat Hunting Scenario - Unauthorized Tor Usage)](https://github.com/NBretzke/Threat-Hunting-Project-Unauthorized-TOR-Usage-)**
+- **[Threat Hunting Scenario - Azure Sentinel Brute Force Incident Response)](https://github.com/NBretzke/Azure-Sentinel-Brute-Force-Detection-Incident-Response)**
 <hr/>
 
 ## 🤳 Connect With Me
